@@ -1,0 +1,2 @@
+MainPackage=D:\IoT\利事盒\Local Projects\Fan\CS\bin\ARM\Debug\RGBLED_1.0.0.0_ARM_Debug.appx
+SymbolPackage=D:\IoT\利事盒\Local Projects\Fan\CS\AppPackages\RGBLED_1.0.0.0_Debug_Test\RGBLED_1.0.0.0_ARM_Debug.appxsym
